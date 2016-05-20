@@ -1,0 +1,14 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2013.06.23"]
+[White "Higgsfield"]
+[Black "tvchumack"]
+[Result "1-0"]
+[WhiteElo "1316"]
+[BlackElo "1306"]
+[TimeControl "15|5"]
+[Termination "Higgsfield won by checkmate"]
+
+1.d4 h5 2.e4 e6 3.Nf3 f6 4.c4 b6 5.e5 Bb7 6.Bd3 f5 7.O-O Be7 8.Nc3 g5 9.d5 g4 10.Nd4 h4
+ 11.dxe6 dxe6 12.Nxe6 Qc8 13.Bxf5 Kf7 14.Ng5+ Bxg5 15.Bxc8 Bxc8 16.Bxg5 g3 17.fxg3+ Kg6 18.gxh4 Nc6 19.Qd5 Nce7 20.Qf7#
+ 1-0

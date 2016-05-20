@@ -1,0 +1,9 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:chesser.views="clr-namespace:Chesser.Views;assembly=Chesser.Views"
+        Title="Chesser" Height="500" Width="525">
+    <DockPanel>
+        <chesser.views:ChesserTabShell Name="ChesserTabShell"/>
+    </DockPanel>
+</Window>

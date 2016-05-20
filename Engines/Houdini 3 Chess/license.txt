@@ -1,0 +1,28 @@
+﻿Houdini 3 is a state-of-the-art chess engine combining outstanding positional 
+evaluation with the most sophisticated search algorithm.
+
+Subject to the terms and conditions of this agreement, permission is granted 
+to install and run the Houdini Chess Engine (the "Software") and use the 
+associated files for personal use on up to three (3) computers that you 
+personally own. This license does not grant any right of additional use other 
+than the above.
+
+This Software or the accompanying files may not be reproduced in any way 
+without prior written permission from the copyright holder.
+You may not rent, lease, assign, transfer or re-distribute to the public the 
+Software. You may not modify the Software or merge all or any part of them in 
+another program, nor reverse engineer, decompile or disassemble the Software. 
+You may not make Houdini available in a so-called "Cloud" system in which you 
+grant third-party access to your computer for chess analysis.
+
+The software is provided "as is", without express or implied warranty. In no 
+event shall the author be liable for any claim, damages or other liability, 
+arising from, out of or in connection with the software or the use or other 
+dealings in the software.
+
+For all up to date information, download links and contact information, please 
+consult the Houdini web site at the following location:
+
+	http://www.cruxis.com/chess/houdini.htm
+
+(c) 2012 Robert Houdart, Cruxis

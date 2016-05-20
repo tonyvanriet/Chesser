@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="ChesserTabShell"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:chesser.views="clr-namespace:Chesser.Views"
+             mc:Ignorable="d" >
+    <Grid>
+        <TabControl>
+            
+            <TabItem>
+                <TabItem.Header>
+                    <TextBlock Text="Excel Dump"/>
+                </TabItem.Header>
+                <chesser.views:ExcelDumpView x:Name="ExcelDumpView"/>
+            </TabItem>
+
+            <TabItem>
+                <TabItem.Header>
+                    <TextBlock Text="Move Rating"/>
+                </TabItem.Header>
+                <chesser.views:MoveRatingView x:Name="MoveRatingView"/>
+            </TabItem>
+
+
+
+        </TabControl>
+    </Grid>
+</UserControl>
